@@ -8,7 +8,7 @@ def main():
                 par=par+1
             else: 
                 par=par+0
-            digitos=digito//10
+            digito=digito//10
         print("El número de dígitos pares es: "+ str(par))
     pass
 
